@@ -2,7 +2,7 @@
 Provides link of full text article upon giving pubmed's PMID
 
 ## Requirements
-Install requests and BeautifulSoup to run this easy program. One can use 'pip3 install requests' and 'pip3 install beautifulsoup'on linux(ubuntu).Simple program is written using python3 using the web scraping module, Beautifulsoup.
+Install requests and BeautifulSoup to run this easy program. One can use ' pip3 install requests ' and ' pip3 install beautifulsoup ' on linux(ubuntu).Simple program is written using python3 using the web scraping module, Beautifulsoup.
 
 ## How to run
 1. Install the requirements
